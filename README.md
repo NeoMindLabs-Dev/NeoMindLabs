@@ -35,7 +35,7 @@ I'm also a youtuber named "NeoMindLab" and have a series called "Blueprint2Reali
 
 ## 🤝 Connect with Me
 - 💌 Email: [kanakraj694@gmail.com]
-- 🌐 GitHub: 
+- 🌐 GitHub: https://github.com/NeoMindLabs-Dev
 
 ---
 
